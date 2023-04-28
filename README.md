@@ -1,6 +1,6 @@
 # GPCP-Eclipse-Plugins
 
-were provided by Queensland University of Technology (QUT), see  https://web.archive.org/web/20110218033418/http://plas.fit.qut.edu.au/gpcp/IDE.aspx and may be used with the JVM version of Gardens Point Component Pascal (GPCP). Hopefully they can be made to work with the current versions of GPCP and Eclipse. I rediscovered them on my shelf on 1. March 2022, created this repo, and uploaded them. 
+These plugins were provided by Queensland University of Technology (QUT), see  https://web.archive.org/web/20110218033418/http://plas.fit.qut.edu.au/gpcp/IDE.aspx and may be used with the JVM version of Gardens Point Component Pascal (GPCP). Hopefully they can be made to work with the current versions of GPCP and Eclipse. I rediscovered them on my shelf on 1. March 2022, created this repo, and uploaded them. 
 
 More information about GPCP there: https://github.com/k-john-gough/gpcp
 
